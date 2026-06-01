@@ -1,0 +1,108 @@
+/* GoWithLaila — premium automotive concierge.
+   Warm-paper premium base + confident red accent. Manrope display / Inter UI. */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Manrope:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+  /* ---- warm-paper neutrals ---- */
+  --paper:        #F7F3EC;   /* default canvas */
+  --paper-deep:   #F0E9DC;   /* alt bands */
+  --paper-edge:   #E6DCC9;   /* warm fills */
+  --surface:      #FFFFFF;   /* cards */
+  --rule:         #E2D9C9;   /* hairlines */
+  --rule-strong:  #CDBFA6;
+
+  --ink:          #1A1613;   /* default text */
+  --ink-muted:    #6A5E50;   /* secondary (warm) */
+  --ink-faint:    #9A8E7E;   /* tertiary */
+
+  /* ---- accent: premium red ---- */
+  --accent:       #C8102E;   /* primary CTA / emphasis */
+  --accent-deep:  #9E0C22;   /* hover / pressed */
+  --accent-bright:#E11733;
+  --accent-wash:  #FAE7E9;   /* subtle fills, focus ring */
+  --accent-ink:   #FFFFFF;   /* text on accent */
+
+  /* ---- semantic ---- */
+  --positive:     #2F6B4F;
+  --positive-wash:#E3EFE8;
+  --warn:         #A1761A;
+  --star:         #E8A317;   /* review stars (gold) */
+  --negative:     #8C2E1F;
+
+  /* ---- google brand (reviews badge) ---- */
+  --g-blue:   #4285F4;
+  --g-red:    #EA4335;
+  --g-yellow: #FBBC05;
+  --g-green:  #34A853;
+
+  /* ---- type ---- */
+  --font-display: 'Manrope', system-ui, sans-serif;
+  --font-sans:    'Inter', system-ui, sans-serif;
+  --font-mono:    ui-monospace, 'SF Mono', Menlo, monospace;
+
+  --fs-hero:    clamp(44px, 6.4vw, 84px);
+  --fs-display: clamp(34px, 4.4vw, 54px);
+  --fs-h2:      clamp(28px, 3.4vw, 40px);
+  --fs-h3:      22px;
+  --fs-body-lg: 19px;
+  --fs-body:    16px;
+  --fs-small:   14px;
+  --fs-caption: 13px;
+  --fs-eyebrow: 11px;
+
+  --track-tight:   -0.03em;
+  --track-snug:    -0.015em;
+  --track-eyebrow:  0.14em;
+
+  --fw-light: 300; --fw-reg: 400; --fw-med: 500; --fw-semi: 600; --fw-bold: 700; --fw-heavy: 800;
+
+  /* ---- spacing (4px grid) ---- */
+  --s-1: 4px;  --s-2: 8px;  --s-3: 12px; --s-4: 16px; --s-5: 24px;
+  --s-6: 32px; --s-7: 48px; --s-8: 64px; --s-9: 96px; --s-10: 128px;
+
+  --content: 1140px;
+  --reading: 680px;
+
+  /* ---- radii ---- */
+  --r-sm: 6px; --r-md: 12px; --r-lg: 18px; --r-xl: 26px; --r-pill: 999px;
+
+  /* ---- shadow ---- */
+  --shadow-sm: 0 1px 2px rgba(26,22,19,.05), 0 4px 16px rgba(26,22,19,.06);
+  --shadow-md: 0 8px 30px rgba(26,22,19,.12);
+  --shadow-lg: 0 24px 70px rgba(26,22,19,.18);
+  --shadow-accent: 0 10px 28px rgba(200,16,46,.30);
+
+  /* ---- motion ---- */
+  --dur-fast: .12s; --dur: .2s; --dur-slow: .42s;
+  --ease-out: cubic-bezier(.2,.8,.2,1);
+}
+
+/* dark premium variant (tweakable) */
+:root[data-theme="dark"] {
+  --paper:        #16110E;
+  --paper-deep:   #1E1814;
+  --paper-edge:   #271F19;
+  --surface:      #1E1813;
+  --rule:         #352A22;
+  --rule-strong:  #4A3B30;
+  --ink:          #F6EFE4;
+  --ink-muted:    #B6A797;
+  --ink-faint:    #80715F;
+  --accent-wash:  #2A1417;
+  --shadow-sm: 0 1px 2px rgba(0,0,0,.4), 0 4px 16px rgba(0,0,0,.4);
+  --shadow-md: 0 8px 30px rgba(0,0,0,.5);
+  --shadow-lg: 0 24px 70px rgba(0,0,0,.6);
+}
+
+/* cool premium variant */
+:root[data-theme="cool"] {
+  --paper:        #F4F5F7;
+  --paper-deep:   #ECEEF2;
+  --paper-edge:   #DFE3E9;
+  --surface:      #FFFFFF;
+  --rule:         #E1E5EC;
+  --rule-strong:  #C6CCD6;
+  --ink:          #161A20;
+  --ink-muted:    #5A626E;
+  --ink-faint:    #939AA6;
+}
