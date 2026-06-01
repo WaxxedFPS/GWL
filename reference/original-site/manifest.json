@@ -1,0 +1,178 @@
+{
+  "source": "https://gowithlaila.com",
+  "capturedAt": "2026-06-01T23:11:41.023Z",
+  "note": "Public snapshot of gowithlaila.com for internal reference while rebuilding the site.",
+  "pages": [
+    {
+      "url": "https://gowithlaila.com/",
+      "finalUrl": "https://gowithlaila.com/",
+      "file": "pages/home.html",
+      "bytes": 5212,
+      "contentType": "text/html; charset=utf-8",
+      "discoveredUrls": 4
+    },
+    {
+      "url": "https://gowithlaila.com/start",
+      "finalUrl": "https://gowithlaila.com/start",
+      "file": "pages/start.html",
+      "bytes": 5448,
+      "contentType": "text/html; charset=utf-8",
+      "discoveredUrls": 4
+    },
+    {
+      "url": "https://gowithlaila.com/thank-you",
+      "finalUrl": "https://gowithlaila.com/thank-you",
+      "file": "pages/thank-you.html",
+      "bytes": 5500,
+      "contentType": "text/html; charset=utf-8",
+      "discoveredUrls": 4
+    },
+    {
+      "url": "https://gowithlaila.com/how-it-works",
+      "finalUrl": "https://gowithlaila.com/how-it-works",
+      "file": "pages/how-it-works.html",
+      "bytes": 5539,
+      "contentType": "text/html; charset=utf-8",
+      "discoveredUrls": 4
+    },
+    {
+      "url": "https://gowithlaila.com/vehicle-match",
+      "finalUrl": "https://gowithlaila.com/vehicle-match",
+      "file": "pages/vehicle-match.html",
+      "bytes": 5552,
+      "contentType": "text/html; charset=utf-8",
+      "discoveredUrls": 4
+    },
+    {
+      "url": "https://gowithlaila.com/trade-in",
+      "finalUrl": "https://gowithlaila.com/trade-in",
+      "file": "pages/trade-in.html",
+      "bytes": 5487,
+      "contentType": "text/html; charset=utf-8",
+      "discoveredUrls": 4
+    },
+    {
+      "url": "https://gowithlaila.com/financing",
+      "finalUrl": "https://gowithlaila.com/financing",
+      "file": "pages/financing.html",
+      "bytes": 5500,
+      "contentType": "text/html; charset=utf-8",
+      "discoveredUrls": 4
+    },
+    {
+      "url": "https://gowithlaila.com/about",
+      "finalUrl": "https://gowithlaila.com/about",
+      "file": "pages/about.html",
+      "bytes": 5448,
+      "contentType": "text/html; charset=utf-8",
+      "discoveredUrls": 4
+    },
+    {
+      "url": "https://gowithlaila.com/contact",
+      "finalUrl": "https://gowithlaila.com/contact",
+      "file": "pages/contact.html",
+      "bytes": 5474,
+      "contentType": "text/html; charset=utf-8",
+      "discoveredUrls": 4
+    },
+    {
+      "url": "https://gowithlaila.com/faq",
+      "finalUrl": "https://gowithlaila.com/faq",
+      "file": "pages/faq.html",
+      "bytes": 5422,
+      "contentType": "text/html; charset=utf-8",
+      "discoveredUrls": 4
+    },
+    {
+      "url": "https://gowithlaila.com/privacy",
+      "finalUrl": "https://gowithlaila.com/privacy",
+      "file": "pages/privacy.html",
+      "bytes": 5474,
+      "contentType": "text/html; charset=utf-8",
+      "discoveredUrls": 4
+    },
+    {
+      "url": "https://gowithlaila.com/terms",
+      "finalUrl": "https://gowithlaila.com/terms",
+      "file": "pages/terms.html",
+      "bytes": 5448,
+      "contentType": "text/html; charset=utf-8",
+      "discoveredUrls": 4
+    },
+    {
+      "url": "https://gowithlaila.com/tcpa",
+      "finalUrl": "https://gowithlaila.com/tcpa",
+      "file": "pages/tcpa.html",
+      "bytes": 5435,
+      "contentType": "text/html; charset=utf-8",
+      "discoveredUrls": 4
+    },
+    {
+      "url": "https://gowithlaila.com/admin",
+      "finalUrl": "https://gowithlaila.com/admin",
+      "file": "pages/admin.html",
+      "bytes": 5448,
+      "contentType": "text/html; charset=utf-8",
+      "discoveredUrls": 4
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://media.base44.com/images/public/6a067fe534abba8b2623f89a/63c64a054_ChatGPTImageMay20202611_11_42PM.png",
+      "finalUrl": "https://media.base44.com/images/public/6a067fe534abba8b2623f89a/63c64a054_ChatGPTImageMay20202611_11_42PM.png",
+      "file": "external/media.base44.com/20cb0752df8c.png",
+      "bytes": 469611,
+      "contentType": "image/png",
+      "reason": "page reference"
+    },
+    {
+      "url": "https://gowithlaila.com/assets/index-xhz8Cb8n.js",
+      "finalUrl": "https://gowithlaila.com/assets/index-xhz8Cb8n.js",
+      "file": "site/assets/index-xhz8Cb8n.js",
+      "bytes": 729299,
+      "contentType": "application/javascript",
+      "reason": "page reference"
+    },
+    {
+      "url": "https://gowithlaila.com/assets/index-B2tUNBT6.css",
+      "finalUrl": "https://gowithlaila.com/assets/index-B2tUNBT6.css",
+      "file": "site/assets/index-B2tUNBT6.css",
+      "bytes": 73287,
+      "contentType": "text/css; charset=utf-8",
+      "reason": "page reference"
+    },
+    {
+      "url": "https://media.base44.com/images/public/6a067fe534abba8b2623f89a/f67142adf_logo.png/v1/fill/w_1200,h_630/f67142adf_logo.png",
+      "finalUrl": "https://media.base44.com/images/public/6a067fe534abba8b2623f89a/f67142adf_logo.png/v1/fill/w_1200,h_630/f67142adf_logo.png",
+      "file": "external/media.base44.com/1e3c263a25cf.png",
+      "bytes": 663656,
+      "contentType": "image/png",
+      "reason": "page reference"
+    },
+    {
+      "url": "https://media.base44.com/images/public/6a067fe534abba8b2623f89a/40710d27b_IMG_1560.png",
+      "finalUrl": "https://media.base44.com/images/public/6a067fe534abba8b2623f89a/40710d27b_IMG_1560.png",
+      "file": "external/media.base44.com/c95bff8ee2ca.png",
+      "bytes": 506278,
+      "contentType": "image/png",
+      "reason": "nested reference"
+    },
+    {
+      "url": "https://media.base44.com/images/public/6a067fe534abba8b2623f89a/7f2f1ec93_IMG_1559.png",
+      "finalUrl": "https://media.base44.com/images/public/6a067fe534abba8b2623f89a/7f2f1ec93_IMG_1559.png",
+      "file": "external/media.base44.com/f1933f3f198f.png",
+      "bytes": 543449,
+      "contentType": "image/png",
+      "reason": "nested reference"
+    },
+    {
+      "url": "https://media.base44.com/images/public/6a067fe534abba8b2623f89a/560972c48_ChatGPTImageMay27202601_05_10AM.png",
+      "finalUrl": "https://media.base44.com/images/public/6a067fe534abba8b2623f89a/560972c48_ChatGPTImageMay27202601_05_10AM.png",
+      "file": "external/media.base44.com/def4970286b8.png",
+      "bytes": 428464,
+      "contentType": "image/png",
+      "reason": "nested reference"
+    }
+  ],
+  "failures": []
+}
